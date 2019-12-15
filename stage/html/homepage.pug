@@ -11,4 +11,8 @@ html(lang="en")
     body
         .page.page-home
             include pug/layout/sidebar
-            .content-area content_page 
+            .content-area 
+                include pug/layout/header
+                .content
+                    h1 #{pageTitle}
+        include pug/layout/scripts

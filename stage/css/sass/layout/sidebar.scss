@@ -9,6 +9,10 @@
         background: #eee;
         transition: .3s;
         padding: 15px;
+// if class  found 
+        &.no-sidebar{
+            left: -250px;
+        }
 
     }
 }
