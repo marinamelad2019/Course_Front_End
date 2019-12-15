@@ -1,0 +1,5 @@
+*{box-sizing:border-box}.page{min-height:100vh}.page .content-area{width:calc(100% - 250px);min-height:100%;-webkit-transition:.3s;transition:.3s;float:right;will-change:width}.page .sidebar{width:250px;height:100%;position:fixed;top:0;left:0;float:left;background:#eee;-webkit-transition:.3s;transition:.3s;padding:15px}
+
+.page .sidebar{width:250px;height:100%;position:fixed;top:0;left:0;float:left;background:#eee;-webkit-transition:.3s;transition:.3s;padding:15px}
+
+/*# sourceMappingURL=main.css.map */
